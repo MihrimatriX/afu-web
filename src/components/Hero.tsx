@@ -71,7 +71,7 @@ const Hero = () => {
         }}
         className="fixed pointer-events-none z-50 mix-blend-difference hidden md:block"
       >
-        <motion.div 
+        <motion.div
           className="w-full h-full rounded-full bg-white"
           animate={{
             boxShadow: [
